@@ -7,8 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-client/node_modules
-server/node_modules
+client/node_modules/
+server/node_modules/
+
+client/routes/config.env
 
 dist
 dist-ssr
@@ -24,3 +26,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.gitignore
