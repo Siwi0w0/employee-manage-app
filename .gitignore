@@ -12,6 +12,8 @@ server/node_modules/
 
 client/routes/config.env
 
+server/routes/config.env
+
 dist
 dist-ssr
 *.local
@@ -26,6 +28,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
 
 server/config.env
 .gitignore
