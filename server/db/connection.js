@@ -1,7 +1,5 @@
 import { MongoClient, ServerApiVersion } from "mongodb";
 
-// const defaultUri = "mongodb://localhost:27017/mydatabase"; // Provide a default connection string
-
 const uri =  process.env.ATLAS_URI || "";
 
 console.log(uri);
