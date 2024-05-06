@@ -59,9 +59,6 @@ npm run start
 ```
 Navigate to localhost:3000 in your browser to view the app.
 
-### Usage
-Explain how to use your application with some clear examples.
-
 ### Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
